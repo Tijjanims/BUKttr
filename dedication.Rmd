@@ -1,0 +1,7 @@
+---
+output:
+  word_document: 
+    reference_docx: styles1.docx
+---
+# DEDICATION
+Dedicate the work to whomsoever you want. This is optional.

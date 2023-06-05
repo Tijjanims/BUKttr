@@ -1,0 +1,14 @@
+
+---
+output:
+  word_document: 
+    reference_docx: styles1.docx
+---
+
+# DECLARATION
+
+I hereby declare that this work is the product of my own research efforts, undertaken under the supervision of Professor Badayi M. Sani and has not been presented and will not be presented elsewhere for the award of a degree or certificate. All sources have been duly acknowledged.
+
+Signature and Date:...........
+
+Saminu Ishaku (SPS/16/MEC/00042)

@@ -1,0 +1,28 @@
+---
+title: "Title of Your Thesis"
+author:
+- Your Name
+- 'Your Matriculation Number '
+- BSc Economics
+- |
+  A DISSERTATION SUBMITTED TO THE DEPARTMENT OF ECONOMICS, BAYERO UNIVERSITY, KANO, IN PARTIAL FULFILMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DEGREE OF MASTER OF SCIENCE (M.Sc) IN ECONOMICS
+date: "August 2021"
+output:
+  word_document:
+    reference_docx: style4.docx
+  pdf_document: default
+  html_document:
+    df_print: paged
+toc: yes
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r setChild, echo=FALSE, child=c('declaration.Rmd', 'certification.Rmd', 'approval.Rmd', 'acknowledgement.Rmd', 'dedication.Rmd','abstract.Rmd', '01-chapter.Rmd', '02-chapter.Rmd', '03-chapter.Rmd', '04-chapter.Rmd', '05-chapter.Rmd', 'bibliography.Rmd', 'glossary.Rmd', 'appendix.Rmd')}
+```
+
+

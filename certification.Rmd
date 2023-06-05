@@ -1,0 +1,16 @@
+---
+output:
+  word_document: 
+    reference_docx: styles1.docx
+---
+# CERTIFICATION
+This is to certify that the research work for this thesis/dissertation and the subsequent write-up  (Saminu Ishaku SPS/16/MEC/00042) were carried out under my supervision.
+
+
+Signature:..............
+
+Prof. Mustapha Mukhtar
+
+Signature:.............
+
+Head of Department

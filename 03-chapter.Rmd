@@ -1,0 +1,26 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+# CHAPTER THREE
+## METHODOLOGY
+
+* For laboratory-based research, this chapter shall be titled Materials and Methods, and shall contain a list of rare/highly specialized materials and a detailed description of the methods employed in the research. The Materials section shall include a list of materials, reagents, living organisms and other biological materials, apparatuses/gadgets and equipment that are not used routinely in the laboratory. General or routine laboratory materials used in the work shall be given within the context of the description of the methods. Candidates shall comply with current international conventions on nomenclature and the identification of scientific materials in their sub-disciplines.
+* The Methods section shall describe all the experimental methods used in the work. Only new methods developed by the candidate shall be described in full. Where an established published method was used unmodified, the candidate shall merely cite the relevant reference. However, where an established method has been modified or adapted by the candidate, he/she shall describe the extent to which the method was modified or adapted. In describing the methods, the candidate shall state all the special precautions taken in the course of applying the method. The statistical methods used in analyzing the data shall also be described.
+* For arts-based disciplines, the chapter shall be titled Methods or Methodology (or other appropriate terminology). It shall contain a description of the methods and procedures employed in the design and validation of instruments, testing hypotheses, and the statistical analyses of raw data
+* Irrespective of the discipline, where the method used was primarily library research or purely theoretical, there need to be a separate chapter on Method/Methodology. The description of the method can be incorporated into the introduction or literature review chapter as a section.
+
+
+$$
+y_t = \beta_0 + \beta_1X_{1t} + \beta_2X_{2t} + \epsilon_t
+$$
+
+Here is some code and a plot, with a figure caption, Figure \@ref(fig:code):
+  
+```{r code3, fig.cap='Plot of Sepal and Species'}
+plot(iris$Sepal.Length,
+     iris$Sepal.Width,
+     col = iris$Species,
+     pch = 19)
+```

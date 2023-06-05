@@ -1,0 +1,11 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+# REFERENCES
+All the references cited in the text shall be collated at the end of the thesis/dissertation. Note that on page 73 section 4.7 of the General Regulations Governing Postgraduate Studies (2014), candidates are expected to use the APA style.
+
+```{r, include=FALSE, eval=FALSE}
+knitr::write_bib(c('knitr', 'rmarkdown', 'xaringan'), 'packages.bib')
+```

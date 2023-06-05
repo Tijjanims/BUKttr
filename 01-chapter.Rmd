@@ -1,0 +1,14 @@
+---
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
+---
+# CHAPTER ONE
+## INTRODUCTION
+This chapter shall be devoted to primarily to justifying the research work. Accordingly, the chapter shall contain the following among others:
+
+* A general overview of the background, concept, general objective and scope of the research. This may not necessarily entail citing references, but may include statement of the problem, significance/purpose of study
+* General aim and specific objectives of the research and/or working hypotheses/research questions, as the case may be
+* Specific proposals (statements only) on how to achieve the specific research objectives or test the working hypotheses/research questions stated above
+* Scope and limitations of the research

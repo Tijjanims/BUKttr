@@ -1,0 +1,52 @@
+---
+title: "The_BUK_thesis_template"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{The_BUK_thesis_template}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+When writing thesis:
+* You must meet certain basic requirements
+
+* Format your documents in the required style
+
+* Include the required references style such as APA style
+
+The BUKttr package makes it possible for you to fulfill these requirements by:
+
+* Enabling you to meet the guidelines
+
+* Write and format your document in the required style
+
+* Enabling you to use a pre-populated template
+
+* Making certain basic basic files such as the style available
+
+* Making the references style file available
+
+* Enabling you to start writing your thesis once you are ready
+
+* Making available all the preliminary pages so that you don't miss any
+
+* Enabling you to import your data, analyse data, and get your presentation document all in one piece
+
+# Data wdi_data
+* A World Bank dataset name **wdi_data** is included for practicing data manipulation
+
+* The data can be accessed by simply using the following code:
+
+```{r wdi_data}
+library(BUKttr)
+data("wdi_data")
+```
+

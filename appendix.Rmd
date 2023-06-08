@@ -1,7 +1,0 @@
----
-output:
-  word_document: default
-  html_document: default
----
-# APPENDIX
-Matters related to data e.g., sample of questionnaires and other test instruments. Raw data based on questionnaire. Copies of author's publication(s) from the research work. Computer programs.

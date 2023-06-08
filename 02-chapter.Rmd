@@ -1,8 +1,0 @@
----
-output:
-  word_document: default
-  html_document: default
----
-# CHAPTER TWO
-## LITERATURE REVIEW
-An exhaustive but inclusive, coherent and up-to-date review of the relevant literature in the research area is required. The candidate is expected to show high proficiency in information retrieval and interpretation. The literature review shall be geared towards justifying the defined objectives of the research. Consequently, the style of the presentation of retrieved information and their interpretation shall be purposeful, directed solely at establishing the premises for the research. It may also include theoretical framework.

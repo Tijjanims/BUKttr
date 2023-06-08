@@ -1,8 +1,0 @@
----
-output:
-  word_document: default
-  html_document: default
----
-# CHAPTER FIVE
-## SUMMARY, CONCLUSION AND RECOMMENDATIONS
-This chapter shall highlight the major findings of the research and the inferences made from them. It shall incorporate a section on recommendations, including suggestions on areas for further work.
